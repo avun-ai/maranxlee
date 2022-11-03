@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/therealalvn" target="blank"><img src="https://img.shields.io/twitter/follow/therealalvn?logo=twitter&style=for-the-badge" alt="therealalvn" /></a> </p>
 
-- Pansexual (he/him)
+- 🌈 Pansexual (he/him)
 
 - 🛣 What I am Woring on? [PureInJava](https://github.com/maranxlee/PureInJava)
 

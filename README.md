@@ -43,7 +43,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maranxlee&show_icons=true&locale=en" alt="maranxlee" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maranxlee&" alt="maranxlee" /></p>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maranxlee&" alt="maranxlee" /></p>

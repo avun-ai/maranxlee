@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **Sheldon "Lee" Cooper is funnier than me...**
 
-- 🌈 Pansexual (he/him)
+- 🎮 [Shell Shockers](https://shellshock.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

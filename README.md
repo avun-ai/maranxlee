@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/therealalvn" target="blank"><img src="https://img.shields.io/twitter/follow/therealalvn?logo=twitter&style=for-the-badge" alt="therealalvn" /></a> </p>
 
-- 🌈 Pansexual (he/him)
-
 - 🛣 What I am Woring on? [PureInJava](https://github.com/maranxlee/PureInJava)
 
 - 🌱 I am currently wasting my time on; **Java, and maybe some Python**
@@ -28,6 +26,8 @@
 - 📄 Know about the OG acount [https://github.com/MaranxHD](https://github.com/MaranxHD)
 
 - ⚡ Fun fact **Sheldon "Lee" Cooper is funnier than me...**
+
+- 🌈 Pansexual (he/him)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

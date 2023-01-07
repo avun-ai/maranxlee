@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **Sheldon "Lee" Cooper is funnier than me...**
 
-- 🎮 [Shell Shockers](https://shellshock.io)
+- 🎮 [Shell Shockers (alvinlmao)](https://shellshock.io) | [Vortex 9 (TeamMaranx)](https://www.crazygames.com/game/vortex-9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -48,6 +48,6 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🏳‍🌈 TOH
+### 🏳‍🌈 TOH Memes
 ![](https://i.imgur.com/aq4tao1.png)
 ![](https://i.imgur.com/MQA5Y99.gif)
